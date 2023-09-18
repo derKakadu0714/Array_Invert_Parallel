@@ -58,6 +58,7 @@ So, the command will now be
 Example:
 For the data with child folder pos0 to pos5
 
+<img width="1334" alt="image" src="https://github.com/derKakadu0714/Image-LUT-Inversion-Parallel/assets/103349391/5b6d249e-a4cb-43e0-ae2d-6e992cab8fd3">
 <img width="1352" alt="image" src="https://github.com/derKakadu0714/Image-LUT-Inversion-Parallel/assets/103349391/206ffb88-4bcf-48e7-823e-2e2dff8acdee">
 
 And the script has run successfully!
