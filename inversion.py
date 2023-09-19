@@ -1,7 +1,7 @@
 # This is a script for converting BrightField image into DarkField image
 # Import packages
 import time
-from skimage.io import imread, imsave
+from tifffile import imread, imsave
 from multiprocessing import Pool
 import numpy as np
 import os
